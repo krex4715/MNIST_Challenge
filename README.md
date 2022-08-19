@@ -1,7 +1,7 @@
 # MNIST_Challenge
 
 
-for test, you can test 
+you can test codes by running
 ``` bash
 python3 run_lenet5.py
 ..or
